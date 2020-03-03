@@ -88,7 +88,7 @@ This example is an Iodide notebook based on an ocean surface temperature data se
 ## Iso-surface Reconstruction
 ### D. Melanogaster Glial Cell
 Data owner is Dr. Lynne Oland, and Ernesto Hernandez of the University of Arizona Department of Neuroscience. Reconstruction and animation done by Christine Deer of UITS Research Technologies Data Visualization Team.  Shared with permission.
-* Video ([src](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing)) of raw data volume and its reconstruction by Imaris can be found [here](https://youtu.be/mmG_22AdiqI) on youtube
+* Video [google drive video](https://drive.google.com/file/d/1nWcNAZb27FrBRhQP7XItD23cr3lMUD9r/view?usp=sharing) of raw data volume and its reconstruction by Imaris can be found [here](https://youtu.be/mmG_22AdiqI) on youtube
 * Publication using the analysis shown above can be found at [here] (https://onlinelibrary.wiley.com/doi/full/10.1002/cne.24852)
 * Alternate link to the publication exists [here] (https://www.researchgate.net/publication/338438125_The_astrocyte_network_in_the_ventral_nerve_cord_neuropil_of_the_Drosophila_third-instar_larva)
 
@@ -96,7 +96,7 @@ Data owner is Dr. Lynne Oland, and Ernesto Hernandez of the University of Arizon
 ## Tracking
 ### Adipose Microtubule +end tip associated tracking
 Data owner is Dr. Paul Langlais, and Sara Parker of the University of Arizona College of Medicine.  Spot tracking done manually using Imaris by Christine Deer of UITS Research Technologies Data Visualization Team. Shared with permission.  
-* Video ([src](https://drive.google.com/file/d/1qpThDGqehlAxy3K0h8kYungXqsaSdxpy/view?usp=sharing)).  Clasp2 +end tip Microtubule associated protein tracking over timecourse after insulin application. Video and links to lab and publication can be found [here](https://youtu.be/fCsVCzbcEZo)
+* Video [google drive video](https://drive.google.com/file/d/1qpThDGqehlAxy3K0h8kYungXqsaSdxpy/view?usp=sharing).  Clasp2 +end tip Microtubule associated protein tracking over timecourse after insulin application. Youtube video link and links to lab and publication can be found [here](https://youtu.be/fCsVCzbcEZo)
 * Lab [website](https://langlaislab.medicine.arizona.edu/)
 * Publication using the analysis shown above can be found [here](https://www.ncbi.nlm.nih.gov/pubmed/31018989)
 
@@ -104,21 +104,21 @@ Data owner is Dr. Paul Langlais, and Sara Parker of the University of Arizona Co
 ## Video Reconstruction from tracking data
 ### Eye Tracking Simulation
 Data Owner is Dr. Jim Schweigerling and Eddie LaVilla of the University of Arizona Department of Optics.  Blender simulation of eye position by Christine Deer of the UITS Research Technologies Data Visualization Team.  Shared with permission.
-* Video ([src](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing)) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can be found here [here](https://youtu.be/KBwWLkjP2QE)
+* Video [google drive video](https://drive.google.com/file/d/1v2dpWdCjkt0iwoDJuW7DSlLAFB6_ra6H/view?usp=sharing) of Blender 2.78 reconstuction of eye tracking data provided by Eddie LaVilla.  The video can also be found on youtube, here [here](https://youtu.be/KBwWLkjP2QE)
 
 ## Animated Scientific Methods and Data
 ### MiniLEO methods
-* Video ([src](https://drive.google.com/open?id=1WGMi8AK7sE4virQaHhBqf3DSO7rfkLRi)) of animated methods for the MiniLEO project done at the request of Yadi Wang.  The video can be found here [here](https://youtu.be/JiZEc-HRubE)
+* Video [google drive video](https://drive.google.com/open?id=1WGMi8AK7sE4virQaHhBqf3DSO7rfkLRi) of animated methods for the MiniLEO project done by Christine Deer at the request of Yadi Wang.  The video can also be found on youtube, here [here](https://youtu.be/JiZEc-HRubE)
 
 ### MiniLEO Data Communication
-* Video ([src](https://drive.google.com/open?id=1PCLuDTDSSt1umL0354LJUAia_k3fG9iZ)) of data representation for the MiniLEO project done in collaboration with Yadi Wang.  The video can be found here [here](https://youtu.be/RdtAxqnKeig)
+* Video [google drive video](https://drive.google.com/open?id=1PCLuDTDSSt1umL0354LJUAia_k3fG9iZ) of data representation for the MiniLEO project done by Christine Deer in collaboration with Yadi Wang.  The video can also be found on youtube, here [here](https://youtu.be/RdtAxqnKeig)
 
 
 ### Geographic Informational support
-* Map ([src](https://drive.google.com/open?id=1D8BwEFvqallwYyVa8oIskzUo23CoogeP) is a map made by Christine Deer at the behest of Celeste Gonzalez and Jeannine Relly of the University of Arizona (Journalism/School of Governement and Public Policy) using ArcGIS Pro.  The map itself uses the shapefile made by Mark Hoel (used with permission) and data from [link] (https://articulo19.org/periodistasasesinados/).  
+* Map [map](https://drive.google.com/open?id=1D8BwEFvqallwYyVa8oIskzUo23CoogeP) is a map made by Christine Deer at the behest of Celeste Gonzalez and Jeannine Relly of the University of Arizona (Journalism/School of Governement and Public Policy) using ArcGIS Pro.  The map itself uses the shapefile made by Mark Hoel (used with permission) and data from [link] (https://articulo19.org/periodistasasesinados/).  
 
-##HERD IPEDS Interactive Map of Research Dollars in the Lower 48
-* Map ([Map](https://drive.google.com/open?id=1WKVrKfr2ZBMxX7XmjoUwnbUUxmoN-RwB)) was made by Christine Deer with help from Cyndy Bresloff at the behest of management. Code ([Code])(https://github.com/CGDeer/HERD_Analysis) can be found here.  Please find the HERD data here: data([Data](https://www.nsf.gov/statistics/srvyherd/), and the IPEDS data here ([Data](https://nces.ed.gov/ipeds/use-the-data)
+## HERD IPEDS Interactive Map of Research Dollars in the Lower 48
+* Map [Map](https://drive.google.com/open?id=1WKVrKfr2ZBMxX7XmjoUwnbUUxmoN-RwB) was made by Christine Deer with help from Cyndy Bresloff at the behest of management. Code [Code](https://github.com/CGDeer/HERD_Analysis) can be found here.  Please find the HERD data here: data [Data](https://www.nsf.gov/statistics/srvyherd/), and the IPEDS data here [Data](https://nces.ed.gov/ipeds/use-the-data)
 
 # Example Video Loops
 
