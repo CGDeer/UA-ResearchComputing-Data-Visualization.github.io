@@ -117,6 +117,9 @@ Data Owner is Dr. Jim Schweigerling and Eddie LaVilla of the University of Arizo
 ### Geographic Informational support
 * Map ([src](https://drive.google.com/open?id=1D8BwEFvqallwYyVa8oIskzUo23CoogeP) is a map made by Christine Deer at the behest of Celeste Gonzalez and Jeannine Relly of the University of Arizona (Journalism/School of Governement and Public Policy) using ArcGIS Pro.  The map itself uses the shapefile made by Mark Hoel (used with permission) and data from [link] (https://articulo19.org/periodistasasesinados/).  
 
+##HERD IPEDS Interactive Map of Research Dollars in the Lower 48
+* Map ([Map](https://drive.google.com/open?id=1WKVrKfr2ZBMxX7XmjoUwnbUUxmoN-RwB)) was made by Christine Deer with help from Cyndy Bresloff at the behest of management. Code ([Code])(https://github.com/CGDeer/HERD_Analysis) can be found here.  Please find the HERD data here: data([Data](https://www.nsf.gov/statistics/srvyherd/), and the IPEDS data here ([Data](https://nces.ed.gov/ipeds/use-the-data)
+
 # Example Video Loops
 
 This is a short 15 minute video with the examples shown at the Catalyst Studio Soft Opening on 11/2/19.
